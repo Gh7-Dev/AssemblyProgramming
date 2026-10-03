@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Win32" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SubThreeFive/SubThreeFive.vcxproj" Id="4ae1cd65-a5dc-4602-8f35-959fb831669d" />
+</Solution>

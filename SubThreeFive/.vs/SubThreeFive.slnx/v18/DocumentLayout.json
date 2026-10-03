@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\SubThreeFive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE1CD65-A5DC-4602-8F35-959FB831669D}|SubThreeFive\\SubThreeFive.vcxproj|C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\SubThreeFive\\SubThreeFive\\SubThreeFive.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4AE1CD65-A5DC-4602-8F35-959FB831669D}|SubThreeFive\\SubThreeFive.vcxproj|solutionrelative:SubThreeFive\\SubThreeFive.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubThreeFive.asm",
+              "DocumentMoniker": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\SubThreeFive\\SubThreeFive\\SubThreeFive.asm",
+              "RelativeDocumentMoniker": "SubThreeFive\\SubThreeFive.asm",
+              "ToolTip": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\SubThreeFive\\SubThreeFive\\SubThreeFive.asm",
+              "RelativeToolTip": "SubThreeFive\\SubThreeFive.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-22T13:43:33.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

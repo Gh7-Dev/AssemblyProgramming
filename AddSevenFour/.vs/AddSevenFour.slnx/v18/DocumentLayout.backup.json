@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSevenFour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6843855A-D9D7-4EC9-A420-F6255EB96B06}|AddSevenFour\\AddSevenFour.vcxproj|C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSevenFour\\AddSevenFour\\AddSevenFour.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6843855A-D9D7-4EC9-A420-F6255EB96B06}|AddSevenFour\\AddSevenFour.vcxproj|solutionrelative:AddSevenFour\\AddSevenFour.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddSevenFour.asm",
+              "DocumentMoniker": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSevenFour\\AddSevenFour\\AddSevenFour.asm",
+              "RelativeDocumentMoniker": "AddSevenFour\\AddSevenFour.asm",
+              "ToolTip": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSevenFour\\AddSevenFour\\AddSevenFour.asm",
+              "RelativeToolTip": "AddSevenFour\\AddSevenFour.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-21T15:31:19.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

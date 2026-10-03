@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B864966A-2799-4DF7-B34D-931672C9C00E}|AddSub\\AddSub.vcxproj|C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSub\\AddSub\\AddSub2.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B864966A-2799-4DF7-B34D-931672C9C00E}|AddSub\\AddSub.vcxproj|solutionrelative:AddSub\\AddSub2.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B864966A-2799-4DF7-B34D-931672C9C00E}|AddSub\\AddSub.vcxproj|C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSub\\AddSub\\AddSum.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B864966A-2799-4DF7-B34D-931672C9C00E}|AddSub\\AddSub.vcxproj|solutionrelative:AddSub\\AddSum.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddSub2.asm",
+              "DocumentMoniker": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSub\\AddSub\\AddSub2.asm",
+              "RelativeDocumentMoniker": "AddSub\\AddSub2.asm",
+              "ToolTip": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSub\\AddSub\\AddSub2.asm*",
+              "RelativeToolTip": "AddSub\\AddSub2.asm*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-28T12:49:02.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddSum.asm",
+              "DocumentMoniker": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSub\\AddSub\\AddSum.asm",
+              "RelativeDocumentMoniker": "AddSub\\AddSum.asm",
+              "ToolTip": "C:\\Users\\georg\\Gh7-Dev\\AssemblyProgamming\\AddSub\\AddSub\\AddSum.asm",
+              "RelativeToolTip": "AddSub\\AddSum.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-28T12:21:04.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
